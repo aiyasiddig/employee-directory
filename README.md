@@ -3,6 +3,10 @@
 ## Description
 
  This app is an employee directory that stores employee data, including their picture, title, name, phone number and email address. 
+ 
+## Deployment
+
+This app is currently hosted at: https://aiyasiddig.github.io/employee-directory/
 
 ## Installation
 
