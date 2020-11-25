@@ -1,4 +1,4 @@
-# User directory managing app
+# Employee Directory
 
 ## Description
 
