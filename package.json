@@ -1,6 +1,6 @@
 {
   "homepage": "https://aiyasiddig.github.io/employee-directory/",
-  "name": "ground-hw-19",
+  "name": "Employee Directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
