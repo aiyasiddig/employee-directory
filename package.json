@@ -1,6 +1,6 @@
 {
   "homepage": "https://aiyasiddig.github.io/employee-directory/",
-  "name": "Employee Directory",
+  "name": "employee-directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
