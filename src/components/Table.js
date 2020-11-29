@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import * as ReactBootstrap from 'react-bootstrap';
-import $ from 'jquery';
 import Row from './Rows';
 import { users } from './Users';
 
@@ -8,9 +7,7 @@ import { users } from './Users';
 export default class Table extends React.Component {
 
   state = {
-    sortType: 'dsc',
     usersArray: users.results,
-    key: "first",
     search: ""
   }
   onchange = e => {
@@ -18,8 +15,7 @@ export default class Table extends React.Component {
   }
 
   iconStyle = {
-    width: "30px",
-    height: "30px",
+    width: "50px"
   }
   changeSort = event => {
     this.setState({key: event.target.name})
