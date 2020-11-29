@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import * as ReactBootstrap from 'react-bootstrap';
 import $ from 'jquery';
-import Row from './Row';
+import Row from './Rows';
 import { users } from './Users';
 
 

@@ -1,6 +1,6 @@
 import React from "react";
 import Table from "./components/Table";
-import Nav from "./components/Nav";
+import Nav from "./components/Navbar";
 
 import "./App.css";
 
